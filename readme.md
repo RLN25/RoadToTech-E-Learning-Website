@@ -4,8 +4,7 @@ An educational website for students and programmers
 ![image](https://github.com/RLN25/RoadToTech-E-Learning-Website/assets/95609283/3cc0e4da-f553-4e34-a377-50fbcc6c8279)
 
 
-Try this out::  
-https://github.com/RLN25/RoadToTech-E-Learning-Website.git
+
 
 Our Educational Website would provide all the education related stuffs:  
 Notes, Sample Papers, Online Video Lectures and courses to crack competitive  

@@ -1,6 +1,7 @@
 ## RoadToTech (E-learning Website)
-An educational website for students and programmers 😊😊😊  
+An educational website for students and programmers  
 
+![image](https://github.com/RLN25/RoadToTech-E-Learning-Website/assets/95609283/3cc0e4da-f553-4e34-a377-50fbcc6c8279)
 
 
 Try this out::  
@@ -13,13 +14,8 @@ by sending their questions to our website. We have added Quizzes for Students
 who are willing to solve problems on different topics. We have also added  
 Interview questions for students who are preparing for placements.  
   
-✔ We have made this website as responsive website so, students or users can  
-   easily access our website from  any device.  
-✔ Quiz Section is an interesting feature for students which provide them with  
-   lots of questions. They can view their scores easily and solutions of every questions.  
-✔ Projects – in this I have added a project section where students from schools and  
-   colleges can get projects for final year and for Class 12th Board Projects.  
-   
-It is completely responsive website, to provide smooth experience...😎  
 
-If you like my project, give it a star  😁😁😁
+   
+
+
+

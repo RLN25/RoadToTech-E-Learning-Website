@@ -1,5 +1,5 @@
 ## RoadToTech (E-learning Website)
-An educational website for students and programmers  
+An Educational website for students and programmers  
 
 ![image](https://github.com/RLN25/RoadToTech-E-Learning-Website/assets/95609283/3cc0e4da-f553-4e34-a377-50fbcc6c8279)
 
